@@ -1,8 +1,6 @@
 package com.App_Service_Back.automoveis;
 
 import com.App_Service_Back.concessionarias.Concessionarias;
-import com.App_Service_Back.endereco.Endereco;
-import com.App_Service_Back.telefone.Telefone;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
